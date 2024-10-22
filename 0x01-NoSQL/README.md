@@ -1,5 +1,5 @@
 # 0x01. NoSQL
-in this project we will be learning about no sql databases.
+in this project we will be learning about NoSQL databases.
 ## Learning Objectives
 * What NoSQL means
 * What is difference between SQL and NoSQL

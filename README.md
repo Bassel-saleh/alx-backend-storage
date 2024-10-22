@@ -1,5 +1,5 @@
 # Advanced MySQL
-## in this project will be learning about MySQL
+## Projects in this repository
 * 0x00. MySQL advanced
-* Learning Objectives
+* 0x01. NoSQL
 ##### Have fun learning ;)
