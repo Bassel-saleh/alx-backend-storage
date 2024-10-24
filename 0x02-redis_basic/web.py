@@ -17,7 +17,7 @@ def data_cacher(method: Callable) -> Callable:
         Caches the output of fetched data
     '''
     @wraps(method)
-    def invoker(url) -> str:
+    def invoker(url: str) -> str:
         '''
             The wrapper function for caching the output
         '''
